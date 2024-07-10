@@ -77,12 +77,12 @@ async def _(c, cq):
     kbt = ikb(
         [
             [
-                ("Support 1", "https://t.me/kynansupport", "url"),
-                ("Support 2", "https://t.me/gokilsupport", "url"),
+                ("Support 1", "https://t.me/Disney_storeDan", "url"),
+                ("Support 2", "https://t.me/Disney_storeDan", "url"),
             ],
             [
-                ("Channel 1", "https://t.me/kontenfilm", "url"),
-                ("Channel 2", "https://t.me/SquirtInYourPussy", "url"),
+                ("Channel 1", "https://t.me/Disney_storeDan", "url"),
+                ("Channel 2", "https://t.me/Disney_storeDan", "url"),
             ],
             [("Stats", "stats_mix")],
         ]
@@ -178,7 +178,7 @@ async def _(c, cq):
         else:
             try:
                 await cq.edit_message_text(
-                    text=text + f"\n<b>© Mix-Userbot - @KynanSupport</b>",
+                    text=text + f"\n<b>© Dan-Userbot - @Disney_storeDan</b>",
                     reply_markup=button,
                     disable_web_page_preview=True,
                 )
