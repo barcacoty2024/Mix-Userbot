@@ -5,6 +5,7 @@ authors:
   - Keenan 
   - Lucifer
   - Lumiere
+  - Wildan
 
 
 cmds: "**Bantuan Perintah**"
@@ -19,7 +20,7 @@ ttup: "Tutup"
 reboot: "{} **Reboot udah kelar jing\nTungguin 1 - 2 menit, kalo ga idup ya matot bot lo.**"
 reboot_1: "Reboot telah berhasil dimulai! Tunggu 1 - 2 menit hingga bot dimulai ulang."
 supot: "**Eh Goblok Kalo Lo Buta MAP, Lo dateng bae ke Grup Support Dibawah!!\n\nAtau Lo bisa ke Channel buat liat Apa yg Update..**"
-menten: "{} **Yah! ini fitur lagi maintenance cil. Ntar coba lagi aja.\n\nKalo kaga, ya lo laporan ke [sini](https://t.me/kontenfilm) kalo kaga ya ke [sini](https://t.me/GokilSupport)**."
+menten: "{} **Yah! ini fitur lagi maintenance cil. Ntar coba lagi aja.\n\nKalo kaga, ya lo laporan ke [sini](https://t.me/mhmdwldnnnn) kalo kaga ya ke [sini](https://t.me/Disney_storeDan)**."
 
 # proxy
 prox_1: "**➣ `{}`**"
@@ -164,11 +165,11 @@ butt_1: "{} **Sigoblok ga bener!! ketik `help markdown` terus baca!!**"
 
 # afk
 afk_1: "{} **Ga bisa pake Akun Anonim atau Akun Channel Tolol!!**"
-afk_2: "{} **Anjay Jamet Mana Afk!!**"
-afk_3: "**{} Gw balik!\n{} Durasi AFK! : `{}` yang lalu.**"
-afk_4: "**{} Gw balik!\n{} Durasi AFK! : `{}` yang lalu.**\n{}**Gara-gara : `{}`.**"
-afk_5: "**{} Gw AFK Tolol!!**\n{} **Dari :** `{}` yang lalu."
-afk_6: "**{} Gw AFK Tolol!!**\n{} **Dari :** `{}` yang lalu.\n{} **Gara-gara:** `{}`."
+afk_2: "{} **Anjay Dan Afk!!**"
+afk_3: "**{} Dan balik!\n{} Durasi AFK! : `{}` yang lalu.**"
+afk_4: "**{} Dan balik!\n{} Durasi AFK! : `{}` yang lalu.**\n{}**Gara-gara : `{}`.**"
+afk_5: "**{} Dan AFK Tolol!!**\n{} **Dari :** `{}` yang lalu."
+afk_6: "**{} Dan AFK Tolol!!**\n{} **Dari :** `{}` yang lalu.\n{} **Gara-gara:** `{}`."
 
 # carbon
 crbn_1: "{} **Contoh Perintah :\n\n• `{} [balas teks]`\n• `{} [balas teks] LimeGreen`\n• `{} [balas teks] LimeGreen Dracula`\n• `{} [balas teks] LimeGreen Dracula python`\n**"
@@ -242,7 +243,7 @@ gcs_16: "{} **Hasil Gukes nya mek :\n{} Masuk di `{}` Grup.\n{} Ketangkis di `{}
 # alive 
 alv_1: "**Author**"
 alv_2: "**Connoisseur**"
-alv_3: "**Mix-Userbot**\n    **status:** {}\n      **dc_id:** {}\n      **ping_dc:** {} ms\n      **antipm:** {}\n      **pengguna:** {}\n      **bot**: {}\n      **grup:** {}\n      **durasi_bot:** {}"
+alv_3: "**Dan-Userbot**\n    **status:** {}\n      **dc_id:** {}\n      **ping_dc:** {} ms\n      **antipm:** {}\n      **pengguna:** {}\n      **bot**: {}\n      **grup:** {}\n      **durasi_bot:** {}"
 alv_4: "Support"
 
 # global
@@ -360,7 +361,7 @@ lck_24: "{} **Yosh gw buka!!**"
 lck_25: "{} **Salah tipe Goblok!!**\n\n{} **Ketik `locktypes` buat liat format!!**"
 lck_27: "{} Yosh gw buka **{}**.**"
 lck_28: "{} **Anjing Error Coeg!!**"
-lck_29: "{} **Lapor ke @kynansupport :\n\n`{}`**"
+lck_29: "{} **Lapor ke @Disney_storeDan :\n\n`{}`**"
 
 # logo
 logo_1: "{} **Goblok!! Pake format : `{}` [text]**"
@@ -388,7 +389,7 @@ paste_3: "{} **Yosh!! [Tautan Disini]({})**"
 ping_1: "**{} Pong `{}ms`**\n**{} Uptime !! `{}`**"
 
 # markdown
-mark_1: "<b>Markdown Formatting</b>\n<b>Anda dapat memformat pesan Anda menggunakan <b>tebal</b>, <i>miring</i>, <u>garis bawah</u>, <strike>coret</strike>, dan banyak lagi.</b>\n\n<code>`kata kode`</code>: Tanda kutip terbalik digunakan Buat font monospace. Ditampilkan sebagai: <code>kata kode</code>.\n\n<code>__miring__</code>: Garis bawah digunakan Buat font miring. Ditampilkan sebagai: <i>kata miring</i>.\n\n<code>**tebal**</code>: Asterisk digunakan Buat font tebal. Ditampilkan sebagai: <b>kata tebal</b>.\n\n<code>--garis bawah--</code>: Buat membuat teks <u>garis bawah</u>.\n\n<code>~~coret~~</code>: Tilda digunakan Buat strikethrough. Ditampilkan sebagai: <strike>coret</strike>.\n\n<code>||spoiler||</code>: Garis vertikal ganda digunakan Buat spoiler. Ditampilkan sebagai: <spoiler>Spoiler</spoiler>.\n\n<code>[hyperlink](contoh)</code>: Ini adalah pemformatan yang digunakan Buat hyperlink.\n\n<code>Hallo Disini ~ [Tombol Saya|https://link.com]</code>: Ini adalah pemformatan yang digunakan Buat membuat tombol.\n\nAnda juga bisa membuat tombol callback_data dengan diawal tanda <code>#</code> . Untuk lebih lanjut silahkan ke @KynanSupport untuk meminta bantuan."
+mark_1: "<b>Markdown Formatting</b>\n<b>Anda dapat memformat pesan Anda menggunakan <b>tebal</b>, <i>miring</i>, <u>garis bawah</u>, <strike>coret</strike>, dan banyak lagi.</b>\n\n<code>`kata kode`</code>: Tanda kutip terbalik digunakan Buat font monospace. Ditampilkan sebagai: <code>kata kode</code>.\n\n<code>__miring__</code>: Garis bawah digunakan Buat font miring. Ditampilkan sebagai: <i>kata miring</i>.\n\n<code>**tebal**</code>: Asterisk digunakan Buat font tebal. Ditampilkan sebagai: <b>kata tebal</b>.\n\n<code>--garis bawah--</code>: Buat membuat teks <u>garis bawah</u>.\n\n<code>~~coret~~</code>: Tilda digunakan Buat strikethrough. Ditampilkan sebagai: <strike>coret</strike>.\n\n<code>||spoiler||</code>: Garis vertikal ganda digunakan Buat spoiler. Ditampilkan sebagai: <spoiler>Spoiler</spoiler>.\n\n<code>[hyperlink](contoh)</code>: Ini adalah pemformatan yang digunakan Buat hyperlink.\n\n<code>Hallo Disini ~ [Tombol Saya|https://link.com]</code>: Ini adalah pemformatan yang digunakan Buat membuat tombol.\n\nAnda juga bisa membuat tombol callback_data dengan diawal tanda <code>#</code> . Untuk lebih lanjut silahkan ke @Disney_storeDan untuk meminta bantuan."
 mark_2: "<b>Fillings</b>\n\nAnda juga dapat menyesuaikan isi pesan Anda dengan data kontekstual. Misalnya, Anda bisa menyebut nama pengguna dalam pesan selamat datang, atau menyebutnya dalam filter!\n\n<b>Isian yang didukung:</b>\n\n<code>{first}</code>: Nama depan pengguna.\n<code>{last}</code>: Nama belakang pengguna.\n<code>{fullname}</code>: Nama lengkap pengguna.\n<code>{username}</code>: Nama pengguna pengguna. Jika mereka tidak memiliki satu, akan menyebutkan pengguna tersebut.\n<code>{mention}</code>: Menyebutkan pengguna dengan nama depan mereka.\n<code>{id}</code>: ID pengguna.\n<code>{chatname}</code>: Nama obrolan."
 mark_3: "**Buat melihat format markdown silahkan klik tombol dibawah.**"
 
