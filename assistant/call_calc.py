@@ -136,7 +136,7 @@ async def _(c, cq):
     else:
         if user.id != nlx.me.id:
             return await cq.answer(
-                f"BELI LAH Mix-Userbot WAHAI {fullname}.\nHANYA 35k, ANDA SUDAH BISA MENIKMATI SEKIAN BANYAKNYA FITUR DI Mix-Userbot!",
+                f"BELI LAH Dan-Userbot WAHAI {fullname}.\nHANYA 35k, ANDA SUDAH BISA MENIKMATI SEKIAN BANYAKNYA FITUR DI Dan-Userbot!",
                 show_alert=True,
             )
         hitung.append(data)
@@ -165,7 +165,7 @@ def unpacked2(inline_message_id: str):
 async def _(_, cq):
     if cq.from_user.id != nlx.me.id:
         return await cq.answer(
-            "Hanya pembuat Mix-Userbot yang dapat menutup kalkulator.",
+            "Hanya pembuat Dan-Userbot yang dapat menutup kalkulator.",
             show_alert=True,
         )
 
