@@ -1,13 +1,13 @@
 {
-    "name": "Mix UserBot",
-    "description": "Mix Userbot Dibuat Untuk String Pyrogram Untuk ID 5 Pasti Aman.",
+    "name": "Dan UserBot",
+    "description": "Dan Userbot Dibuat Untuk String Pyrogram Untuk ID 5 Pasti Aman.",
     "logo": "https://telegra.ph//file/19b336da463a05d7d8f8c.jpg",
     "keywords": [
         "Pyrogram",
         "Userbot"
     ],
-    "repository": "https://github.com/naya1503/Mix-Userbot",
-    "success_url": "https://t.me/kenapanan",
+    "repository": "https://github.com/barcacoty2024/Mix-Userbot",
+    "success_url": "https://t.me/mhmdwldnnnn",
     "stack": "container",
     "env": {
         "api_id": {
