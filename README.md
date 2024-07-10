@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph//file/19b336da463a05d7d8f8c.jpg" alt="Mix Logo">
+  <img src="https://telegra.ph//file/19b336da463a05d7d8f8c.jpg" alt="Dan Logo">
 </p>
 <h1 align="center">
-  <b>Mix Userbot</b>
+  <b>Dan Userbot</b>
 </h1>
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Pyrogram
@@ -10,12 +10,12 @@
 Support Multi Language, If You want more language Contact Me On Telegram.</b>
 
 
-[![Last Commit](https://img.shields.io/github/last-commit/naya1503/Mix-Userbot?color=red&logo=github&logoColor=blue&style=for-the-badge)](https://github.com/naya1503/Mix-Userbot/commits)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/naya1503/Mix-Userbot)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://GitHub.com/naya1503/Mix-Userbot/graphs/commit-activity)
-[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/naya1503/Mix-Userbot/dashboard)
-[![GitHub Forks](https://img.shields.io/github/forks/naya1503/Mix-Userbot?&logo=github)](https://github.com/naya1503/Mix-Userbot/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/naya1503/Mix-Userbot?&logo=github)](https://github.com/naya1503/Mix-Userbot/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/barcacoty2024/Mix-Userbot?color=red&logo=github&logoColor=blue&style=for-the-badge)](https://github.com/barcacoty2024/Mix-Userbot/commits)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/barcacoty2024/Mix-Userbot)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-blue)](https://GitHub.com/barcacoty2024/Mix-Userbot/graphs/commit-activity)
+[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/barcacoty2024/Mix-Userbot/dashboard)
+[![GitHub Forks](https://img.shields.io/github/forks/barcacoty2024/Mix-Userbot?&logo=github)](https://github.com/naya1503/Mix-Userbot/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/barcacoty2024/Mix-Userbot?&logo=github)](https://github.com/naya1503/Mix-Userbot/stargazers)
 ----
 
 ## Disclaimer
@@ -41,7 +41,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 • `sudo apt-get install python3-pip ffmpeg -y`
 
- • `git clone https://github.com/naya1503/Mix-Userbot`
+ • `git clone https://github.com/barcacoty2024/Mix-Userbot `
 
  • `cd Mix-Userbot`
 
@@ -69,7 +69,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 • `curl -sSL https://get.docker.com | sh`
 
- • `git clone https://github.com/naya1503/Mix-Userbot`
+ • `git clone https://github.com/barcacoty2024/Mix-Userbot`
 
  • `cd Mix-Userbot`
 
@@ -95,7 +95,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 • Silakan isi vars yang diperlukan api_id, api_hash, session, heroku_api, heroku_app_name, mongo_uri, db_name, scheme, hostname, port, username dan password jika butuh.
 
 <h3 align="center">Click The Button</h3>
-<a align="center" href="https://dashboard.heroku.com/new?template=https://github.com/naya1503/Mix-Userbot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+<a align="center" href="https://dashboard.heroku.com/new?template=https://github.com/barcacoty2024/Mix-Userbot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
 </div>
 
 </details>
@@ -118,7 +118,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 
 ## Maintained By
-* [![Kynan.](https://img.shields.io/static/v1?label=Ky&message=nan&color=critical)](https://t.me/kenapanan)
+* [![Dan.](https://img.shields.io/static/v1?label=Ky&message=nan&color=critical)](https://t.me/mhmdwldnnnn)
 
 
 
