@@ -87,7 +87,7 @@ async def _(c, cq):
     global hitung
     kb = calc_help()
     data = cq.data.split("_")[1]
-    teks = "Mix-Userbot Calculator"
+    teks = "Dan-Userbot Calculator"
     if data not in mmk:
         return
     user = cq.from_user
